@@ -105,7 +105,7 @@ export const MuiButton = () => {
           <ToggleButton value="bold" aria-label="bold">
             <FormatBoldIcon />
           </ToggleButton>
-          <ToggleButton value="italic" aria-labe="itaic">
+          <ToggleButton value="italic" aria-labe="italic">
             <FormatItalicIcon />
           </ToggleButton>
           <ToggleButton value="underlined" aria-label="underlined">
